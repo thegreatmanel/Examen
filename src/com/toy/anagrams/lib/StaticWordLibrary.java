@@ -158,5 +158,5 @@ final class StaticWordLibrary extends WordLibrary {
     public boolean isCorrect(int idx, String userGuess) {
         return userGuess.equals(getWord(idx));
     }
-//este comentario es añadido por mí//
+//Mi nuevo y mejor comentario//
 }
